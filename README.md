@@ -1,6 +1,10 @@
 [![GoDoc](https://godoc.org/github.com/videxio/ldapserver?status.svg)](https://godoc.org/github.com/videxio/ldapserver)
 [![Build Status](https://travis-ci.org/vjeantet/ldapserver.svg)](https://travis-ci.org/vjeantet/ldapserver)
 
+# [DEPRECATED]
+
+This package have been deprecated and replaced by new internal non-GPL project.
+
 **This package is a work in progress.**
 
 **ldapserver** is a helper library for building server software capable of speaking the LDAP protocol. This could be an alternate implementation of LDAP, a custom LDAP proxy or even a completely different backend capable of "masquerading" its API as a LDAP Server.
